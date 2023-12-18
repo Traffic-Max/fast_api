@@ -24,6 +24,8 @@ h11==0.14.0
     # via uvicorn
 idna==3.6
     # via anyio
+psycopg2==2.9.9
+    # via -r requirements.in
 pydantic==2.5.2
     # via fastapi
 pydantic-core==2.14.5
